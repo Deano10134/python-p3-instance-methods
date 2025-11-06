@@ -43,9 +43,9 @@ fact, how do we even ask this object to do something?
 
 ***
 
-## The Behavior of Objects
+## The Behaviour of Objects
 
-Objects on their own don't do very much. In order to see the behavior of an
+Objects on their own don't do very much. In order to see the behaviour of an
 object, we need to interact with it to elicit a response. There are certain
 strategies for interacting with objects that allow us to access their data and
 functionality from the outside.
@@ -221,7 +221,7 @@ Complete the following tasks to get the rest of the tests passing:
 With all tests passing, you have successfully written multiple instance methods
 and _two_ different classes!
 
-The ability to define methods and behaviors in our classes for our instances
+The ability to define methods and behaviours in our classes for our instances
 makes Python classes behave not just as factories, capable of instantiating new
 individual instances, but also as a blueprint, defining what those instances can
 do.
